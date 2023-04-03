@@ -4,7 +4,7 @@ Min Wook Joo MD, PhD, Taehoon Ko PhD, Min Seob Kim MD, Yong-Suk Lee MD, Seung Ha
 
 CORR submitted.
 
-###Description
+### Description
 
 (2023-04-03)
 3 files are updated. (drr_generation.py, train.py, predict.py)
